@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "COWORKER",
+    "ID": "COWORK",
+    "Image": "https://th.bing.com/th/id/OIG.4gZOhYeWRbkrOtMVoROr",
+    "Class": "Attack",
+    "Base Stats": {
+      "FearMax": 100,
+      "Def": 100,
+      "Acumen": 100,
+      "Damage": 50
+    }
+  }
+]
