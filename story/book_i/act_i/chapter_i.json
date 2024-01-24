@@ -8,7 +8,23 @@
         "(The overhead lights are too bright.)"
     ],
     [
-      "COWORK",
-      "Hey, newbie."
+        "YOU",
+        "(It's almost difficult to see, with how bright it is.)"
+    ],
+    [
+        "YOU",
+        "(You blink. Once. Twice.)"
+    ],
+    [
+        "YOU",
+        "(The office darkens before your eyes, as if a response.)"
+    ],
+    [
+        "COWORK",
+        "Hey, newbie."
+    ],
+    [
+        "COWORK",
+        "You ready for your first day?"
     ]
 ]
