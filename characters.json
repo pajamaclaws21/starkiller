@@ -10,10 +10,10 @@
     "ID": "COWORK",
     "Image": "https://th.bing.com/th/id/OIG.4gZOhYeWRbkrOtMVoROr",
     "Actionable": true,
-    "Class": "Attack",
-    "Group": "Melee",
-    "Type": "Anodyne",
-    "Base Stats": {
+    "Stats": {
+      "Class": "Attack",
+      "Group": "Melee",
+      "Type": "Anodyne",
       "FearMax": 100,
       "Def": 100,
       "Acumen": 100,
