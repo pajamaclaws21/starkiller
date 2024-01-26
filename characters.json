@@ -17,7 +17,8 @@
       "FearMax": 100,
       "Def": 100,
       "Acumen": 100,
-      "Damage": 50
+      "Damage": 50,
+      "Attacks": ["Melee-Neutral", "Melee-Emotional"]
     }
   }
 ]
