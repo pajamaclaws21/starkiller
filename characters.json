@@ -20,5 +20,21 @@
       "Damage": 50,
       "Attacks": ["Melee-Neutral", "Melee-Emotional"]
     }
+  },
+  {
+    "Name": "INVESTOR",
+    "ID": "INVEST",
+    "Image": "https://th.bing.com/th/id/OIG2.A_YwvUtqLhzNDlcHcMke",
+    "Actionable": true,
+    "Stats": {
+      "Class": "Support",
+      "Group": "Debuffer",
+      "Type": "Melancholic",
+      "FearMax": 100,
+      "Def": 90,
+      "Acumen": 90,
+      "Damage": 40,
+      "Attacks": ["Debuff-Neutral", "Debuff-Emotional"]
+    }
   }
 ]
