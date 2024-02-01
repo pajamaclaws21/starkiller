@@ -1,0 +1,79 @@
+[
+    [
+        "YOU",
+        "(You wake up in a cubicle.)"
+    ],
+    [
+        "YOU",
+        "(The overhead lights are too bright.)"
+    ],
+    [
+        "YOU",
+        "(It's almost difficult to see, with how bright it is.)"
+    ],
+    [
+        "YOU",
+        "(You blink. Once. Twice.)"
+    ],
+    [
+        "YOU",
+        "(The office darkens before your eyes, as if a response.)"
+    ],
+    [
+        "COWORK",
+        "Hey, newbie."
+    ],
+    [
+        "COWORK",
+        "You ready for your first day?"
+    ],
+    [
+        "YOU",
+        "(You nod your head. You're not sure, really, though.)"
+    ],
+    [
+        "YOU",
+        "(It *is* your first day, after all.)"
+    ],
+    [
+        "YOU",
+        "(The company you're working for, Letterhead Inc., has... a reputation.)"
+    ],
+    [
+        "COWORK",
+        "Well, hurry up and get to the meeting."
+    ],
+    [
+        "COWORK",
+        "And do watch out for the folks on the second floor--"
+    ],
+    [
+        "COWORK",
+        "They *hate* being interrupted."
+    ],
+    [
+        "YOU",
+        "(With that, he gives you a small salute, and leaves.)"
+    ],
+    [
+        "YOU",
+        "(Getting up from your cubicle, you see it's a small office.)"
+    ],
+    [
+        "YOU",
+        "(Only a few other cubicles present, nobody filling them up yet.)"
+    ],
+    [
+        "YOU",
+        "(You attribute this to people working from home rather than something else.)"
+    ],
+    [
+        "YOU",
+        "..."
+    ],
+    [
+        "YOU",
+        "(Perhaps you should head to that meeting.)"
+    ],
+    ["endChapter"]
+]
