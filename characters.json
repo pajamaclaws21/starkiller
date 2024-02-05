@@ -11,6 +11,7 @@
     "Image": "https://th.bing.com/th/id/OIG.4gZOhYeWRbkrOtMVoROr",
     "Actionable": true,
     "Stats": {
+      "Rating": 3,
       "Class": "Attack",
       "Group": "Melee",
       "Type": "Anodyne",
@@ -27,6 +28,7 @@
     "Image": "https://th.bing.com/th/id/OIG2.A_YwvUtqLhzNDlcHcMke",
     "Actionable": true,
     "Stats": {
+      "Rating": 3,
       "Class": "Support",
       "Group": "Debuffer",
       "Type": "Melancholic",
@@ -34,7 +36,7 @@
       "Def": 90,
       "Acumen": 90,
       "Damage": 40,
-      "Attacks": ["Debuff-Neutral", "Debuff-Emotional"]
+      "Attacks": ["Debuff-Singular", "Debuff-Mass"]
     }
   }
 ]

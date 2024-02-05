@@ -6,11 +6,7 @@ The goal of this project is to make a gacha game completely based on JSON data t
 ## Battle Note
 Blissful has advantage over Melancholic, Melancholic over Indignant, and Indignant over Blissful.
 Anodyne has no advantage.
-Attack types:
-* Melee (Neutral) -- attack w/o advantages
-* Melee (Emotional) -- attack w/ advantages
-* Ranged (Neutral)
-* Ranged (Emotional)
+A Neutral attack attacks w/o advantage. An Emotional attack attacks w/ advantage. Attacks are generally Singular, unless they are specified Multi-.
 
 ## Modding
 To add a character, add their JSON to characters.json. Images should be 1024x1024.
