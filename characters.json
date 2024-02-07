@@ -19,7 +19,7 @@
       "Def": 100,
       "Acumen": 100,
       "Damage": 50,
-      "Attacks": ["Melee-Neutral", "Melee-Emotional"]
+      "Attacks": ["A,M,Neu,T1", "A,M,Emo,T1", "C"]
     }
   },
   {
@@ -36,7 +36,7 @@
       "Def": 90,
       "Acumen": 90,
       "Damage": 40,
-      "Attacks": ["Debuff-Singular", "Debuff-Mass"]
+      "Attacks": ["Db,T1", "Db,T3", "C"]
     }
   }
 ]
